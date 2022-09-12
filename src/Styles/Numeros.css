@@ -1,0 +1,21 @@
+.body4{
+    background-color: #f49a84;
+    margin-top: 10px;
+    width: 60%;
+    margin: 0px auto;
+    border-radius: 10px;
+}
+
+.titulo4{
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+.input4{
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    padding-bottom: 15px;
+}

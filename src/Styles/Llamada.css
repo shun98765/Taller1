@@ -1,0 +1,21 @@
+.body2{
+    background-color: #c3d0e0;
+    margin-top: 10px;
+    width: 60%;
+    margin: 0px auto;
+    border-radius: 10px;
+}
+
+.titulo2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+.input2{
+    text-align: center;
+   margin-right: 250px;
+   margin-left: 250px;
+   padding-bottom: 15px;
+}

@@ -1,0 +1,22 @@
+.body9{
+    background-color: #303f52;
+    width: 60%;
+    margin: 0px auto;
+    border-radius: 10px;
+}
+
+.titulo9{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.oscuro{
+    color: aliceblue;
+}
+
+.input9{
+    text-align: center;
+   margin-right: 250px;
+   margin-left: 250px;
+   padding-bottom: 15px;
+}
